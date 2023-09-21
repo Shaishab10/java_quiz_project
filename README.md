@@ -10,7 +10,7 @@
 
 ### How to run this project:
 - Clone this project
-- Open this project with Intellij IDEA or other java programming software.
+- Open ```build.gradle``` file as a project with Intellij IDEA or other java programming software.
 - run ```main.java```
 
 
