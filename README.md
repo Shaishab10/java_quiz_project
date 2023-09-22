@@ -16,10 +16,11 @@
 
 ### Project Output Video
 
-https://github.com/Shaishab10/java_quiz_project/assets/54171379/32031c9b-7a8e-45fc-bb88-0a3905013b09
+https://github.com/Shaishab10/java_quiz_project/assets/54171379/2acea45a-c14f-4d39-b0bb-957c0e6f0cbc
+
 
 #### for Better Quality please visit below link
 
-https://drive.google.com/file/d/1utRsIinrjj1tYgBKFYs26NUw93AGRykI/view?usp=sharing
+https://drive.google.com/file/d/1ofgwPdhhJ91qJnTAIPnft5TI-W8RXOQt/view?usp=sharing
 
 
